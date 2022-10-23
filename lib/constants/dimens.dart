@@ -4,6 +4,8 @@ part of animated_segment;
 /// Here, we have defined used dimensions inside the package.
 class Dimens {
   // Padding
+  
+  // TODO take these from contructor as parameter 
   static const paddingSmall = 4.0;
   static const paddingNormal = 8.0;
   static const paddingLarge = 16.0;
